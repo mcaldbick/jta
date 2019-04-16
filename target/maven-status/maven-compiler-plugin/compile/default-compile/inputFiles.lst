@@ -1,0 +1,6 @@
+/root/JTA_example/tutorials/jta/src/main/java/com/baeldung/jtademo/JtaDemoApplication.java
+/root/JTA_example/tutorials/jta/src/main/java/com/baeldung/jtademo/services/BankAccountService.java
+/root/JTA_example/tutorials/jta/src/main/java/com/baeldung/jtademo/dto/TransferLog.java
+/root/JTA_example/tutorials/jta/src/main/java/com/baeldung/jtademo/services/TestHelper.java
+/root/JTA_example/tutorials/jta/src/main/java/com/baeldung/jtademo/services/AuditService.java
+/root/JTA_example/tutorials/jta/src/main/java/com/baeldung/jtademo/services/TellerService.java
